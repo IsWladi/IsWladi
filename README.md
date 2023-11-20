@@ -42,3 +42,5 @@ I'm a software developer who's all about backend technologies, rocking in Docker
 ---
 
 *On a quest for learning and growing in the tech world, seizing every chance to level up my skills and sprinkle some magic in innovative projects! 🌟*
+
+P.S.: By the way, I use NeoVim... because why just code, when you can do it with style? 😎🔥
