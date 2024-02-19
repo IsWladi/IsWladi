@@ -1,4 +1,4 @@
-# Hi, I´m Wladimir 🚀
+# Hi, I am Wladimir 🚀
 
 ---
 
