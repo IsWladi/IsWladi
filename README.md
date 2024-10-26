@@ -1,3 +1,11 @@
+<h1 align="center"><b>Hi , I'm Wladimir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+---
+
+*On a quest for learning and growing in the tech world, seizing every chance to level up my skills and sprinkle some magic in innovative projects! 🌟*
+
+## Check out my Social Media
+
 <p align="left">
 <a href="https://www.linkedin.com/in/wladimir-u-53169b266/">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -7,11 +15,6 @@
   </a> 
 </p>
 
-# Hi, I am Wladimir 🚀
-
----
-
-*On a quest for learning and growing in the tech world, seizing every chance to level up my skills and sprinkle some magic in innovative projects! 🌟*
 ## My Skills Include
 
 <h4> Languages </h4>
