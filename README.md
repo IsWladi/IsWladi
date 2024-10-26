@@ -1,11 +1,5 @@
 <h1 align="center"><b>Hi , I'm Wladimir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
----
-
-*On a quest for learning and growing in the tech world, seizing every chance to level up my skills and sprinkle some magic in innovative projects! 🌟*
-
-## Check out my Social Media
-
 <p align="left">
 <a href="https://www.linkedin.com/in/wladimir-u-53169b266/">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,6 +8,10 @@
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
 </p>
+
+---
+
+*On a quest for learning and growing in the tech world, seizing every chance to level up my skills and sprinkle some magic in innovative projects! 🌟*
 
 ## My Skills Include
 
@@ -58,6 +56,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </span>
+
 <p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IsWladi&show_icons=true&theme=transparent&locale=en" alt="IsWladi" /></p>
 </p>
